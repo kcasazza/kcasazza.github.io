@@ -162,7 +162,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../../Prompt/phone-dark.png');
+  background-image: url('../phone-dark.png');
   text-align: center;
   color: white;
 }
