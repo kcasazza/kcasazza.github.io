@@ -1,10 +1,10 @@
 // Get elements from HTML
-const capitalBtn = document.getElementById("Capital");
-const lowercaseBtn = document.getElementById("Lowercase");
-const combinedBtn = document.getElementById("Combined");
-const shuffleBtn = document.getElementById("Shuffle");
-const showAllBtn = document.getElementById("Show-all");
-const hideAllBtn = document.getElementById("Hide-all");
+const capitalBtn = document.getElementById("capital");
+const lowercaseBtn = document.getElementById("lowercase");
+const combinedBtn = document.getElementById("combined");
+const shuffleBtn = document.getElementById("shuffle");
+const showAllBtn = document.getElementById("show-all");
+const hideAllBtn = document.getElementById("hide-all");
 const cardContainer = document.querySelector(".card-container");
 
 // Create an array of cards with letters and words
